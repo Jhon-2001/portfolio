@@ -17,7 +17,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   return (
     <div>
       <Head>
-        <title>{meta.title}</title>
+        <title>Ripan Ionut</title>
         <meta name="robots" content="follow, index" />
         <meta content={meta.description} name="description" />
         <meta
