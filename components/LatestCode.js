@@ -54,7 +54,7 @@ export default function LatestCode({ repositories }) {
   );
 }
 
-const GithubRepoCard = ({ latestRepo }) => {
+const GithubRepoCard = () => {
   return (
     <div className="github-repo">
      
