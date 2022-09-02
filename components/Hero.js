@@ -28,17 +28,17 @@ export default function Hero() {
           </RainbowHighlight>
           <RainbowHighlight color={colors[3]}>
             <h1 className="text-4xl md:text-8xl font-bold text-gray-700 dark:text-gray-200 my-2">
-              Youtuber.
+              Student.
             </h1>
           </RainbowHighlight>
         </RoughNotationGroup>
       </div>
       {/* Image container */}
-      <div className="hidden lg:block relative w-full md:w-1/2 -mr-40 mt-20">
+      <div className="hidden  lg:block relative w-full md:w-1/2 -mr-40 mt-20">
         <div className="w-3/4 ">
-          <img src={userData.avatarUrl} alt="avatar" className=" shadow" />
+          <img src="/me.jpg" alt="avatar" className=" rounded-xl shadow" />
           <div className="flex flex-row justify-between mt-4">
-            <div className="flex flex-row space-x-4">
+            <div className="flex flex-row space-x-4 ">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
