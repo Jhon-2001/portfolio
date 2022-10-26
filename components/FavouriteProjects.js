@@ -74,7 +74,7 @@ export default function FavouriteProjects() {
           </a>
           {/* Single card */}
           <a
-            href="https://ripan-h8042o7fd-ripanionut.vercel.app/"
+            href="https://sha-256-aes.vercel.app/"
             className="w-full block col-span-2  sm:col-span-2 shadow-2xl"
           >
             <div className="relative overflow-hidden">
